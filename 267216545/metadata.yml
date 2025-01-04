@@ -1,0 +1,14 @@
+---
+:id: 267216545
+:submitters:
+- :name: Emily Houai Zou
+  :email: ezou2@jh.edu
+- :name: Liam Hamilton Baca
+  :email: wbaca1@jh.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-13 21:01:40.534825000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-13 14:01:40.534825000 Z
+:status: processed
+:score: 85.0
